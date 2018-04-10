@@ -312,9 +312,9 @@ function disable() {
 	workspaces = [];
 
 	let winList = global.get_window_actors().map(function (w) { return w.meta_window; }),
-		i       = winList.length;
-	while (i--) {
-		let win = winList[i];
+		j       = winList.length;
+	while (j--) {
+		let win = winList[j];
 		if (win.window_type === Meta.WindowType.DESKTOP) {
 			continue;
 		}
