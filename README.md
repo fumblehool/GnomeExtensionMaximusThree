@@ -7,7 +7,7 @@ Forked from GnomeExtensionMaximusThree: https://extensions.gnome.org/extension/8
 
 How to install
 ==============
- - Visit https://extensions.gnome.org/extension/844/maximus-three/ on the machine you want to install it on. If prompted, allow the activation of the 'Gnome Shell Integration' Plugin.
+ - Visit https://extensions.gnome.org/extension/1356/maximus-three/ on the machine you want to install it on. If prompted, allow the activation of the 'Gnome Shell Integration' Plugin.
  - Click the ON/OFF button on the page.
  - When prompted, choose 'Install'.
  - The extension should be installed and working - a shell restart may be required, you can do this by pressing <kbd>Alt</kbd>+<kbd>F2</kbd>, entering `r` and pressing <kbd>Enter</kbd>.
