@@ -21,4 +21,4 @@ Version History
 
 1. Basic modifaction of https://extensions.gnome.org/extension/844/maximus-two/ .
 2. Added (some) support for Gnome 3.18.
-3. Added support for Gnome Shell 2.36 ([andyholmes](https://github.com/andyholmes))
+3. Added support for Gnome Shell 3.26 ([andyholmes](https://github.com/andyholmes))
